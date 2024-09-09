@@ -7,7 +7,7 @@ VCET @2025 || CSE || Cyber Security Enthusiastic || Flutter Development || Yaksh
 I'm a Computer Science student at VCET, graduating in 2025, with a passion for cybersecurity and Flutter development. Beyond tech, I'm also a Yakshagana artist, blending tradition with innovation.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://pathu10.github.io/portfolio/](http://pathu10.github.io/portfolio/)
+* 🖥️  See my portfolio at [https://pathu10.github.io/Portfolio/](http://pathu10.github.io/Portfolio/)
 * ✉️  You can contact me at [prathamajeru10@gmail.com](mailto:prathamajeru10@gmail.com)
 * 🧠  I'm learning CyberSecurity
 * 🤝  I'm open to collaborating on ML based projects and Cybersecurity tools
