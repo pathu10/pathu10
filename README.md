@@ -42,9 +42,9 @@ I'm a Computer Science student at VCET, graduating in 2025, with a passion for c
 ## Top Repositories
 
 <div>
-    <a href="[https://github.com/pathu10/Portfolio](https://github.com/pathu10/Portfolio)">
-        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10k&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
+    <a href="https://github.com/pathu10/Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
     <a href="https://github.com/pathu10/Bank-Database-Management-System">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10&repo=Bank-Database-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
