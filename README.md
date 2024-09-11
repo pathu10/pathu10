@@ -33,4 +33,22 @@ I'm a Computer Science student at VCET, graduating in 2025, with a passion for c
 
 <a href="http://www.github.com/pathu10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pathu10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/pathu10">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pathu10&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
 <a href="https://github.com/pathu10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathu10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Top Repositories
+
+<div>
+    <a href="[https://github.com/pathu10/Portfolio](https://github.com/pathu10/Portfolio)">
+        <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10k&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/pathu10/Bank-Database-Management-System">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10&repo=Bank-Database-Management-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/pathu10/Registration_Form">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pathu10&repo=Registration_Form&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    </a>
+</div>
